@@ -59,7 +59,7 @@ $ pip install -r requirements.txt
 - pytz
 - PyYAML
 - six0
-- SQLAlchemy0
+- SQLAlchemy
 - Werkzeug
 - zipp
 
